@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./admin.css">
+</head>
+<body>
+
+    <div class="form">
+        <h1>Create cards for Homepage</h1>
+
+      
+
+        <!-- trying new technic -->
+
+        <form action="" id="selectcreation">
+            <select name="" id="create">
+                <option value="shopbyroom">create cards for shop by room</option>
+                <option value="prepcards">create cards for prepperation </option>
+                <option value="halloween">create cards for halloween</option>
+                <option value="togood">create cards for too good</option>
+            </select>
+            <input type="url" name="image" id="image" placeholder="enter image url">
+                <input type="text" name="title" id="title" placeholder="enter title">
+                <input type="text" name="discription" id="description" placeholder="enter discription">
+                <input type="submit" name="" id="">
+        </form>
+
+
+        
+    </div>
+
+
+    <div class="electronicsform">
+        
+        <h1>create cards for electonics page</h1>
+
+
+
+    <form action="" id="forelectro">
+        <select name="" id="electrocards">
+            <option value="apple">for apple cards</option>
+            <option value="creation">for creators cards</option>
+            
+
+
+
+        </select>
+        <input type="url" name="image" id="image" placeholder="enter image url">
+        <input type="text" name="title" id="title" placeholder="enter title">
+        <input type="text" name="discription" id="description" placeholder="enter discription">
+        <input type="submit" name="" id="">
+
+    </form>
+
+    </div>
+
+    <div class="fashionform">
+        
+        <h1>create cards for fashion page</h1>
+
+
+
+    <form action="" id="forfashion">
+        <select name="" id="fashioncards">
+           
+            <option value="cozyup">for cozy cards</option>
+            <option value="winterboots">for winterboots cards</option>
+            <option value="gift">for gift cards</option>
+            <option value="shopbyprice">for shop by price</option>
+
+
+
+        </select>
+        <input type="url" name="image" id="image" placeholder="enter image url">
+        <input type="text" name="title" id="title" placeholder="enter title">
+        <input type="text" name="discription" id="description" placeholder="enter discription">
+        <input type="submit" name="" id="">
+
+    </form>
+
+    </div>
+
+
+
+
+
+    <!-- for update and delete -->
+
+    <div class="updel">
+
+        <form action="" id="update">
+            <h1>select cards to update</h1>
+            <input type="text" name="" id="upid" placeholder="enter id to update">
+
+               <select name="" id="updatedata">
+            <option value="shopbyroom">for shop cards</option>
+            <option value="prepcards">for preperaton cards</option>
+            <option value="halloween">for halloween cards</option>
+            <option value="togood"> for to good cards</option>
+            <option value="apple"> for to apple cards</option>
+            <option value="creation"> for to creators cards</option>
+            
+        </select>
+
+        <input type="url" name="image" id="" >
+        <input type="text" name="title" id="" >
+        <input type="text" name="price" id="" >
+        <input type="text" name="discription" id="" >
+         <input type="submit" name="" id="">
+            
+
+
+        </form>
+        <button onclick="updation()">update</button>
+
+
+        <h1>enter id to delete card</h1>
+        <form action="" id="delitems"> 
+            <input type="text" name="" id="delid" placeholder="enter id to delete">
+            <select name="" id="deldata">
+                <option value="shopbyroom">for shop cards</option>
+                <option value="prepcards">for preperaton cards</option>
+                <option value="halloween">for halloween cards</option>
+                <option value="togood"> for to good cards</option>
+                <option value="apple"> for to apple cards</option>
+                <option value="creation"> for to creators cards</option>
+            </select>
+            <input type="submit" name="" id="" >
+        </form>
+    </div>
+
+   
+    
+</body>
+<script src="./admin.js"></script>
+</html>

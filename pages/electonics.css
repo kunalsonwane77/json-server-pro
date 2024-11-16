@@ -1,0 +1,242 @@
+.imgdiv {
+
+    margin: 200px auto;
+    width: 80%;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-image: url("https://i5.walmartimages.com/dfw/4ff9c6c9-489e/k2-_3e3b946e-c801-4e19-9ff2-92f4c415f028.v1.jpg?odnHeight=470&odnWidth=1232&odnBg=&odnDynImageQuality=70");
+}
+
+.content {
+    padding: 20px;
+}
+
+.content>h1 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.content>a {
+    margin-right: 100px;
+    color: black;
+}
+
+.gridimg {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: auto;
+    margin-top: -100px;
+    width: 80%;
+    height: 400px;
+    /* border: 1px solid red; */
+}
+
+.gridcard {
+    text-align: center;
+    margin: auto;
+    width: 180px;
+    height: 180px;
+    /* border: 1px solid black; */
+}
+
+.gridcard>img {
+    display: block;
+    margin: auto;
+    height: 90%;
+}
+
+.gridcard>p {
+    margin-top: -10px;
+}
+
+.cardcontent {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 1520px;
+    /* border: 1px solid red; */
+    margin: 50px auto;
+}
+
+.feature {
+    width: 300px;
+    height: 1520px;
+    /* border: 1px solid black; */
+}
+
+.cardcontainers {
+    width: 75%;
+    /* border: 1px solid red; */
+    height: 1520px;
+}
+
+.applecontainer {
+
+    height: 300px;
+    width: 100%;
+    border: 1px solid blue;
+}
+
+#apple {
+    display: flex;
+    margin: 20px auto;
+    width: 880px;
+    height: 340px;
+    /* border: 1px solid purple; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+}
+
+.pcard {
+    height: 300px;
+    width: 280px;
+    padding: 5px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.pcard>img {
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 100%;
+
+}
+
+.pcard>h1 {
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 700;
+    margin-left: 8px;
+}
+
+.pcard>p {
+    text-wrap: wrap;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+.pcard>button {
+    font-weight: 600;
+    margin-left: 8px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+    box-shadow: rgba(60, 64, 67, 0.668) 0px 1px 2px 0px, rgba(60, 64, 67, 0.296) 0px 2px 6px 2px;
+}
+
+.deals {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.deals>p {
+    font-weight: 800;
+}
+
+.feature>h1 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+#cat {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.deals>img {
+
+    margin-right: 20px;
+}
+
+.img2div {
+    margin: auto;
+    height: 350px;
+    width: 880px;
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.img2div>img {
+    height: 100%;
+    width: 100%;
+}
+
+.imgdivcontent {
+    padding: 10px;
+    margin-top: -340px;
+}
+
+.imgdivcontent>h1 {
+    margin-top: -10px;
+    font-size: 24px;
+    line-height: 30px;
+    width: 300px;
+    font-weight: 700;
+}
+
+.imgdivcontent>p {
+    width: 300px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.imgdivcontent>button{
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: white;
+}
+
+#creaters{
+    display: flex;
+    
+    margin: 20px auto;
+    width: 880px;
+    height: 550px;
+    /* border: 1px solid red; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+}
+.ccard{
+    margin-right: 20px;
+    width: 230px;
+    height: 100%;
+    /* border: 1px solid red; */
+}
+.ccard>img{
+    display: block;
+    margin: auto;
+    height: 70%;
+}
+.ccard>h1{
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.ccard>p{
+    display: flex;
+    text-wrap: wrap;
+    margin-left: 10px;
+}
+.ccard>button{
+   margin-bottom: 10px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: white;
+    margin-left: 10px;
+}

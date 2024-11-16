@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+nav{
+    height: 80px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: #0070dc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+#how{
+    width: 300px;
+    height: 40%;
+    border-radius: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004f9a;
+    color:white;
+    border: none;
+}
+#sc{
+    font-size: 13px;
+}
+#howfont{
+   line-height: 0.5;
+   font-weight: 200;
+}
+#imghow>img{
+    width: 35px;
+}
+#inp{
+    width: 47%;
+    padding: 12px;
+    border-radius: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+
+}
+#inp>input{
+    width: 80%;
+    outline: none;
+    border: none;
+    
+
+}
+#search{
+    /* border: 1px solid red; */
+    padding: 5px;
+    border-radius: 50%;
+    color: white;
+    background-color: #014f9c;
+}
+#tools{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid red; */
+   
+
+}
+#card{
+    margin-top: 10px;
+}
+#tools>div{
+  /* border: 1px solid red; */
+  width: max-content;
+  height: 50px;
+  border-radius: 40px;
+  padding: 3px;
+  color: white;
+
+  text-align: center;
+  line-height: 0.1;
+}
+#signup>a{
+    
+    color: white;
+    text-decoration: none;
+}
+
+#signup{
+    margin-top: 25px;
+}
+
+.bottom{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    /* border: 1px solid red; */
+    background-color: #f3f8fe;
+}
+#service{
+    width: 330px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid blue; */
+    align-items: center;
+    font-size: 16px;
+
+}
+#service>h3{
+    /* border: 1px solid red; */
+    height: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#ser:hover{
+    border: 1px solid #0070dc;
+}
+.pages{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    /* border: 2px solid purple; */
+    font-size: 14px;
+
+}
+.pages>a{
+    text-decoration: none;
+    color: black;
+}
+.navbarst {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    z-index: 100; 
+    background-color: #0070dc; 
+    width: 100%; 
+}
+#logo{
+    margin-right: -30px;
+    height: 40px;
+}

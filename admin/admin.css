@@ -1,0 +1,61 @@
+.form,.electronicsform,.updel,.fashionform{
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 50px auto;
+    height: fit-content;
+    background-color: beige;
+    width: 80%;
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+h1{
+   text-align: center;
+}
+#shopbyroom,#prep,#shopfor,#tocd{
+    text-align: center;
+}
+#togood{
+    text-align: center;
+  margin: auto;
+}
+.update{
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid red;
+}
+/* .electronicsform{
+    text-align: center;
+    margin: auto;
+    height: 500px;
+    width: 80%;
+    border: 1px solid red;
+} */
+
+
+/* .updel{
+    margin: 50px auto;
+    border: 1px solid red;
+    text-align: center;
+    width: 70%;
+    height: 500px;
+} */
+
+input,button,select{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+input[type=submit],button{
+    background-color: aquamarine;
+    cursor: pointer;
+
+}
+input[type=submit] button:hover{
+    transform: scale(1.2);
+
+}

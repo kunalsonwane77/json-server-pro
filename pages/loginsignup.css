@@ -1,0 +1,123 @@
+
+#login{
+  width: 500px;
+  height: fit-content;
+  margin: 20px auto;
+  /* border: 1px solid red; */
+  text-align: center;
+}
+#login>h1{
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+#login>p{
+    margin: auto;
+    
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    text-wrap: wrap;
+    /* border: 1px solid red; */
+    width: 320px;
+}
+#login>input{
+
+ width: 70%;
+ height: 50px;
+ border-radius: 5px;
+ margin-top: -15px;
+}
+#login>h3{
+    margin-top: 5%;
+    margin-right: 50%;
+    font-size: 16px;
+    font-weight: 700;
+    
+   
+}
+#login>button{
+    display: block;
+    margin:20px auto;
+    padding: 8px 150px;
+    border-radius: 20px;
+    background-color: #0170dc;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border: none;
+}
+
+#login>a{
+    margin-right: 31%;
+    color: black;
+}
+
+
+
+/* for signup */
+#signup{
+   width: 500px;
+   height: 700px;
+   margin: 20px auto;
+   /* border: 1px solid red; */
+}
+
+
+
+#signup{
+    width: 500px;
+    height: fit-content;
+    margin: 20px auto;
+    /* border: 1px solid red; */
+    text-align: center;
+  }
+  #signup>h1{
+      margin-bottom: 30px;
+      font-size: 20px;
+      font-weight: 700;
+  
+  }
+  #signup>p{
+      margin: auto;
+      
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 400;
+      text-wrap: wrap;
+      /* border: 1px solid red; */
+      width: 320px;
+  }
+  #signup>input{
+  
+   width: 70%;
+   height: 50px;
+   border-radius: 5px;
+   margin-top: -15px;
+  }
+  #signup>h3{
+      margin-top: 5%;
+      margin-right: 50%;
+      font-size: 16px;
+      font-weight: 700;
+      
+     
+  }
+  #signup>button{
+      display: block;
+      margin:20px auto;
+      padding: 8px 150px;
+      border-radius: 20px;
+      background-color: #0170dc;
+      color: white;
+      font-size: 14px;
+      font-weight: 700;
+      border: none;
+  }
+  
+  #signup>a{
+      margin-right: 31%;
+      color: black;
+  }
+

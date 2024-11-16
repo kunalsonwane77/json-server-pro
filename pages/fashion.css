@@ -1,0 +1,435 @@
+.imgcontainer {
+    margin: 20px auto;
+    position: relative;
+    left: 0;
+    right: 0;
+
+    margin-top: 200px;
+    height: 1050px;
+    width: 80%;
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.imgcontainer>img {
+
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.img1content {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, 0);
+    height: 150px;
+    width: 60%;
+    /* border: 1px solid red; */
+}
+
+.img1content>button {
+    margin-top: -10px;
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.img1content>p {
+    margin-top: -15px;
+}
+
+.img2content {
+    position: absolute;
+    left: 10px;
+
+    padding: 10px;
+    height: 120px;
+    bottom: 10px;
+    width: 400px;
+    /* border: 1px solid red; */
+}
+
+.img2content>button {
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: white;
+    font-weight: 700;
+    border: 0.5px solid black;
+}
+
+.gridimgcontainer {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: 20px auto;
+    height: 450px;
+    width: 80%;
+    /* border: 1px solid red; */
+}
+
+.gridcard {
+    text-align: center;
+    height: 220px;
+    width: 200px;
+    /* border: 1px solid red; */
+}
+
+.gridcard>p {
+    margin-top: -10px;
+}
+
+.gridcard>img {
+    height: 200px;
+    /* border: 1px solid red; */
+}
+
+#cozy {
+    display: flex;
+    width: 80%;
+    height: 500px;
+    /* border: 1px solid red; */
+    margin: 20px auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+}
+
+.coxycard {
+    width: fit-content;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    height: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-right: 20px;
+
+}
+
+.coxycard>h1 {
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2px;
+}
+
+.coxycard>p {
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 21px;
+}
+
+.coxycard>button {
+
+    margin-left: 10px;
+    margin-top: 5%;
+    padding: 5px 8px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.winter {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    height: 200px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 5px;
+
+}
+
+.wincard {
+    text-align: center;
+    height: 100%;
+    width: 200px;
+    /* border: 1px solid red; */
+}
+
+.wincard>img {
+    display: block;
+    margin: auto;
+    height: 90%;
+    /* border: 1px solid red; */
+}
+
+
+.wincard>p {
+    margin-top: -5px;
+}
+
+#divtitle {
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 160px;
+}
+
+#winterboots {
+    display: flex;
+    margin: 20px auto;
+    /* border: 1px solid red; */
+    width: 85%;
+    height: 400px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+}
+
+.wcard {
+    padding: 5px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    width: fit-content;
+    border-radius: 10px;
+    margin-left: 20px;
+
+}
+
+.wcard>h1 {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+.wcard>p {
+    margin-left: 15px;
+    line-height: 2px;
+}
+
+.wcard>button {
+    margin-left: 15px;
+    margin-top: 5%;
+    padding: 5px 8px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+
+.giftimg {
+
+    margin: 20px auto;
+    position: relative;
+    left: 0;
+    right: 0;
+    width: fit-content;
+    height: fit-content;
+    /* border: 1px solid red; */
+
+}
+
+.giftimg>img {
+    border-radius: 10px;
+}
+
+.giftdiv {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    /* border: 1px solid red; */
+}
+
+
+.giftdiv>h1 {
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.giftdiv>p {
+    font-size: 16px;
+    line-height: 2px;
+    color: white;
+}
+
+.giftdiv>button {
+    margin-top: 5%;
+    padding: 5px 10px;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.fashiongift {
+    /* border: 1px solid red; */
+    position: relative;
+    margin: auto;
+    width: 80%;
+
+
+}
+
+.fashiongift>img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.fashcontent {
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 10px;
+    /* border: 1px solid black; */
+    width: fit-content;
+}
+
+.fashcontent>h1 {
+    font-size: 32px;
+    color: white;
+}
+
+.fashcontent>p {
+    margin-top: -15px;
+    color: white;
+}
+
+.fashcontent>a {
+    color: white;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+
+#giftit {
+    width: 85%;
+    height: 670px;
+    display: flex;
+    padding: 5px;
+    /* border: 1px solid red; */
+    margin: 20px auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+}
+
+.giftcard {
+    width: fit-content;
+    /* border: 1px solid red; */
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-right: 20px;
+}
+
+.giftcard>h1 {
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+.giftcard>p {
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.giftcard>button {
+    margin-left: 10px;
+    margin-top: 5%;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: white;
+    border: 0.5px solid black;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+#shopbyprice {
+    display: flex;
+    width: 85%;
+    height: 550px;
+    margin: 50px auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scroll-snap-type: x mandatory;
+    /* border: 1px solid red; */
+}
+.shoppcard{
+    width: fit-content;
+    height: 95%;
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    padding: 5px;
+    margin-right: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.shoppcard>h1{
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 23px;
+    font-size: 700;
+}
+.shoppcard>p{
+    margin-left: 10px;
+}
+.shoppcard>button{
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 3%;
+    background-color: white;
+}
+.editor{
+   width: 83%;
+   height: 200px;
+   margin: 20px auto;
+   /* border: 1px solid red; */
+   text-align: center;
+   position: relative;
+}
+.editor>img{
+    width: 100%;
+}
+.editorcontent{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+}
+.editorcontent>h1{
+  font-size: 32px;
+  font-weight: 700;
+  
+}
+.editorcontent>p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.editorcontent>a{
+    color: black;
+    font-size: 18px;
+}
+.brands{
+    width: 85%;
+    margin: 20px auto;
+    height: 1000px;
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+
+}
+.brandcard{
+    text-align: center;
+  width: 200px;
+  height: 200px;
+  /* border: 1px solid red; */
+}
+.brandcard>img{
+    width: 85%;
+}
+.brandcard>p{
+    margin-top: -5px;
+}

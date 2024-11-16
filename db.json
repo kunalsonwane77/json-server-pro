@@ -1,0 +1,234 @@
+{
+  "shopbyroom": [
+    {
+      "id": "1",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a15e/k2-_32e41980-9064-4c24-acf3-c1463c3e6a0c.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "A worm welcome",
+      "discription": "Seasonal decor will greet you & your guests, right at the door."
+    },
+    {
+      "title": "A cheer-filled kitchen by kunal",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d266/k2-_8a148916-2c4d-4346-bc4f-4bf75ca87262.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "price": "undefined",
+      "discription": "Festive mugs, multicookers & more to put you in a merry mood.",
+      "id": "d92a"
+    }
+  ],
+  "prepcards": [
+    {
+      "id": "ah5d",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-11d4/k2-_7bc9a3b9-8173-40c5-90e7-1e4603796149.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "A hauntingly good time",
+      "discription": "Get into the spirit with decor, DIY ideas & more"
+    },
+    {
+      "id": "7520",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-b8bf/k2-_2a22f504-148c-4efe-96a7-bf4b0c059c42.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Set your best table",
+      "discription": "Bring loved ones together with styles that feel extra special."
+    },
+    {
+      "id": "93a2",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-36ac/k2-_6c0c93b3-39a4-4e35-9505-59083c70a022.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "It's cozy season",
+      "discription": "Plush throws, pillows & more for next-level lounging."
+    }
+  ],
+  "halloween": [
+    {
+      "title": "Halloween Earthenware 19.6-Ounce Ghost",
+      "image": "https://i5.walmartimages.com/seo/WAY-TO-CELEBRATE-GHOST-TREAT-JAR_eff56a18-f171-4b2d-a5b6-fe4dddc9b642.ae17e35da6cf70a6d352caf538db31bf.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$6.95",
+      "discription": "undefined",
+      "id": "55d8"
+    },
+    {
+      "id": "f2dc",
+      "image": "https://i5.walmartimages.com/seo/Better-Homes-Gardens-Metal-Candle-Holder-Lantern-Black-Medium_38b35714-ee5b-4a61-8b2b-c00632508157.9471185ce0d50b63dffec5f6d4b0af35.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$14.97",
+      "title": "Better Homes & Gardens 18\" Decorative Black "
+    },
+    {
+      "id": "d01b",
+      "image": "https://i5.walmartimages.com/seo/Way-To-Celebrate-Glass-Skull-Shape-Decanter-Iridescent-Finish_3cbab7ae-f02b-4f56-aadc-296fa2399091.699a064faabbe638965c595d4f83d0ba.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "price": "$6.94",
+      "title": "Way To Celebrate Glass Skull Shape Iridescent"
+    },
+    {
+      "id": "94ea",
+      "image": "https://i5.walmartimages.com/seo/Halloween-Brown-Faux-Rattan-Resin-Skull-Tabletop-Decor-5-5-in-by-Way-To-Celebrate_a21611c7-c0db-413f-a0a5-2d2a37daa789.2e894550828534281e58c8e94132d78f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$6.97",
+      "title": "Halloween Brown Faux Rattan Resin Skull Tabletop"
+    },
+    {
+      "id": "f09c",
+      "image": "https://i5.walmartimages.com/seo/WAY-TO-CELEBRATE-COFFIN-SERVE-TRAY_15c15b27-9cda-4f4e-b0ca-be95a14a414f.c5aab94707bf9e3c3f74a9f378c32a89.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$9.96",
+      "title": "Mainstays Unscented Skull Candle, 4.5 inches"
+    },
+    {
+      "id": "5e37",
+      "image": "https://i5.walmartimages.com/seo/Mainstays-Unscented-Skull-Candle-4-5-inches-Black_29f2d915-0a2e-4888-9390-ce07e2472c54.2230bfcfd0663d5a8e35ea498634c487.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$6.97",
+      "title": "Mainstays Unscented Skull Candle, 4.5 inches"
+    },
+    {
+      "id": "e624",
+      "image": "https://i5.walmartimages.com/seo/Mainstays-Pumpkin-Spice-Halloween-Candle-13-ounce_3f6f2f23-ba66-4c70-b772-dcf584dee600.93b92ff9b31ed7c467de8e8561832a05.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "price": "$5.97",
+      "title": "Mainstays Pumpkin Spice Halloween Candle, 13 ounce"
+    }
+  ],
+  "togood": [
+    {
+      "id": "s8c8",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-35c8/k2-_6b7d81a2-80db-4912-94fe-c0b8def1c813.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "Pillows aplenty",
+      "discription": "Pile on the softest textures to capture all the feels."
+    },
+    {
+      "id": "c90d",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-3702/k2-_4031b033-e502-45b8-a184-8761ed7492d2.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "Look good getting there",
+      "discription": "From luggage sets to packing cubes, always travel in style."
+    }
+  ],
+  "apple": [
+    {
+      "id": "bbd4",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a29a/k2-_11b2fef9-f7e3-4ca0-9b29-097733fee9f8.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Save up to $1,100 on iPhone 16",
+      "discription": "Stunning titanium design. Camera control. And A18 Pro chip."
+    },
+    {
+      "id": "db6b",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-ff8a/k2-_48d93bf4-2f2e-483a-9bca-9ce8451c4152.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Thinstant classic",
+      "discription": "Apple Watch Series 10. Thinner, lighter design."
+    },
+    {
+      "id": "fbd5",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-51bb/k2-_6616babb-2c61-41ad-bcf6-8293c7f321ba.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Iconic. Now supersonic.",
+      "discription": "A transformed audio experience with all- day comfort."
+    }
+  ],
+  "creation": [
+    {
+      "id": "d8c5",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-59ef/k2-_16e3bad4-4919-49a4-aaf5-f4a3a20c8117.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "Beginner enthusiasts",
+      "discription": "Score the gear you need to learn your craft."
+    },
+    {
+      "id": "44c1",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-a2d6/k2-_7ca4ea2d-19bf-4ad7-8f43-d03658ef948f.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "Experienced vloggers",
+      "discription": "Develop amazing content with top tech finds."
+    },
+    {
+      "id": "f40c",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-d1fd/k2-_0518637b-734f-4fef-91b4-d05f7906fc71.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "Make connections",
+      "discription": "Gamers & streamers-get to know your viewers"
+    },
+    {
+      "id": "a831",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-ce5a/k2-_c7f0a345-f219-4ab6-93ae-cdedce549bb7.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "Podcast gear",
+      "discription": "Reach your audience with top-quality equipment."
+    }
+  ],
+  "cozyup": [
+    {
+      "id": "hd8e",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-4ccd/k2-_220b1061-6f0f-46a8-b6bb-a34a155407ec.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "Fleece styles for all",
+      "discription": "So soft, you’ll be happy it’s cold."
+    },
+    {
+      "id": "3c35",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-9621/k2-_62b7077f-1c00-4349-a90d-e8245c4b0c37.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "So. Many. Sweaters.",
+      "discription": "All the knits you need this season."
+    }
+  ],
+  "winterboots": [
+    {
+      "id": "5c8f",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-6462/k2-_2b4c5a92-6225-4c71-bed2-3108c1e7660a.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Boots for her",
+      "discription": "Step up your winter rotation."
+    },
+    {
+      "id": "f4d9",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-f989/k2-_51765150-bc1e-408b-8f21-f3567721340d.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Boots for him",
+      "discription": "Take the season in stride."
+    },
+    {
+      "id": "f7d1",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-2637/k2-_fd034b36-2086-42de-8e05-df68d1f9b012.v1.jpg?odnHeight=222&odnWidth=395&odnBg=FFFFFF",
+      "title": "Boots for them",
+      "discription": "Keep their toes toasty in any weather."
+    }
+  ],
+  "gift": [
+    {
+      "id": "8cef",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-e6d1/k2-_6ab1266f-32fe-44d2-b73d-15d0eaf72f83.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "For her",
+      "discription": "Give her all the fuzzy feels."
+    },
+    {
+      "id": "b731",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-3356/k2-_7528f13e-dc42-4828-ac68-85d8c9bf3416.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "For Him",
+      "discription": "Give him a cozy upgrade."
+    },
+    {
+      "id": "ff83",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-8b34/k2-_7ab03409-e630-4034-bac7-609ab8b71175.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "For girls",
+      "discription": "Give her new looks to love."
+    },
+    {
+      "id": "1a49",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-6b08/k2-_1ea49ee4-7b45-4bf3-9110-2a044ae61ebf.v1.jpg?odnHeight=512&odnWidth=288&odnBg=FFFFFF",
+      "title": "For boys",
+      "discription": "Give him the gift of cool."
+    }
+  ],
+  "shopbyprice": [
+    {
+      "id": "75w0",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-cc75/k2-_1c1cc540-180e-489d-80f0-783c0df88eec.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "Gifts under $15",
+      "discription": "Hats to tees, you know they want these."
+    },
+    {
+      "id": "a2d2",
+      "image": "https://i5.walmartimages.com/dfw/4ff9c6c9-5da9/k2-_f8c591cc-894a-4f85-955c-41ef19dc3d39.v1.jpg?odnHeight=340&odnWidth=604&odnBg=FFFFFF",
+      "title": "Gifts under $25",
+      "discription": "Stylish surprises, no splurge."
+    }
+  ],
+  "userdata": [
+    {
+      "email": "kunalsonwane77@gmail.com",
+      "password": "kunal123",
+      "firstname": "kunal",
+      "lastname": "sonwane",
+      "phonenumber": 8999087231,
+      "id": "5e04"
+    },
+    {
+      "id": "8372",
+      "email": "yraut122@gmail.com",
+      "firstname": "yash",
+      "lastname": "raut",
+      "phonenumber": "8668483960",
+      "password": "yraut215"
+    }
+  ]
+}
